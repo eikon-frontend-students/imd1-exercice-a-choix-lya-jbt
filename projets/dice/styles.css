@@ -8,6 +8,8 @@ body {
   font-family: sans-serif;
   text-align: center;
   padding: 2rem;
+  background-color: #0b0721;
+  color: white;
 }
 .dice-options,
 .controls {
@@ -20,4 +22,7 @@ body {
 button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
+}
+h1 {
+  color: #f3b2e0;
 }
