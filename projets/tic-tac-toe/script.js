@@ -1,6 +1,8 @@
 const board = document.getElementById("board");
 const statusText = document.getElementById("status");
 const resetBtn = document.getElementById("reset");
+const XImg = "icone/heart.jpg";
+const OImg = "icone/star.jpg";
 
 let currentPlayer = "X";
 let grid = Array(9).fill(null);
