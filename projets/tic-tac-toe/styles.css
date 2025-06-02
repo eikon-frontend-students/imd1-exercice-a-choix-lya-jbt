@@ -43,3 +43,15 @@ h2 {
   border-radius: 10%;
   background: #f19e60;
 }
+.taken-heart {
+  background-image: url("icone/heart.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.taken-star {
+  background-image: url("icone/star.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
